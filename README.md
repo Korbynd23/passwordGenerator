@@ -20,7 +20,7 @@ THEN the password is either displayed in an alert or written to the page
 
 Link to deployed site: https://korbynd23.github.io/passwordGenerator/
 
-(./assests/images/screenshotPassword)
+![Screenshot](/assests/images/screenshotPassword.png)
 ---
 
 ## Table of Contents
